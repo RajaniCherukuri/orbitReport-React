@@ -58,3 +58,15 @@ h1 {
   color: white;
   font-size: 60px;
 }
+
+.bannerHeader {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  text-align: center;
+  background: #5c94ce;
+  padding: 50px;
+  color: white;
+  font-size: 40px;
+  font-weight: bold;
+}
